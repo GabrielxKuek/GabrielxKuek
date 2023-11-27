@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=GabrielxKuek&style=flat-square)
+
 - 👋 Hi, I’m @GabrielxKuek
 - 👀 I’m interested in becoming more proficient in coding, to become a software engineer
 - 🌱 I’m currently learning Javascript, Kaboom.js and backend development using express.js and node.js
