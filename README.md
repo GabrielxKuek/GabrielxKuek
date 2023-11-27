@@ -12,8 +12,6 @@
 ^ Give me time. I'm very confident these will raise soon
 
 [![GabrielxKuek's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielxKuek)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielxKuek)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 GabrielxKuek/GabrielxKuek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
