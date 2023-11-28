@@ -21,13 +21,22 @@
 - Node.js<br>
 - Express.js<br>
 - Kaboom.js (learning)<br>
+- Basic .net
 
 <h4>Others</h4>
+- Figma <br>
 - Mysql<br>
 - Firebase (learning)<br>
 - Linux Kernel (need revision)<br>
 - Wordpress (need revision)<br>
 - AWS (need revision)<br>
+
+<h4>Future Plans</h4>
+- React.js<br>
+- MongoDB<br>
+- Typescript<br>
+- Python<br>
+- C#<br>
 
 <h2>Profile Information</h2>
 
