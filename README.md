@@ -9,6 +9,7 @@
 - 📫 How to reach me (please dont, for now. Don't know much about GitHub yet)<br>
 
 <h2>Skills</h2>
+<div>
 <h4>Languages</h4>
 - HTML <br>
 - CSS<br>
@@ -16,13 +17,17 @@
 - Basic Python<br>
 - Basic C#<br>
 - <a href="https://github.com/GabrielxKuek/Nest/tree/App-Branch">Basic SwiftUI</a><br>
+</div>
 
+<div>
 <h4>Libraries & Frameworks</h4>
 - Node.js<br>
 - Express.js<br>
 - Kaboom.js (learning)<br>
 - Basic .net
+</div>
 
+<div>
 <h4>Others</h4>
 - <a href="https://www.figma.com/file/GUn59YdXXIvoGhZgvh0iEt/Mindful-Innovators---MindfulHacks?type=design&node-id=0-1&mode=design&t=gxh5edMdL14yj8kS-0">Figma</a> <br>
 - Mysql<br>
@@ -30,13 +35,16 @@
 - Linux Kernel (need revision)<br>
 - Wordpress (need revision)<br>
 - AWS (need revision)<br>
+</div>
 
+<div>
 <h4>Future Plans</h4>
 - React.js<br>
 - MongoDB<br>
 - Typescript<br>
 - Python<br>
 - C#<br>
+</div>
 
 <h2>Profile Information</h2>
 
