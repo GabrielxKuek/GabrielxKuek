@@ -30,6 +30,7 @@
 - AWS (need revision)<br>
 
 <h2>Profile Information</h2>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=GabrielxKuek)](https://github.com/ryo-ma/github-profile-trophy)
 
 ^ Give me time. I'm very confident these will raise soon
