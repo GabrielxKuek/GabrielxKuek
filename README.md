@@ -1,12 +1,12 @@
 ![](https://komarev.com/ghpvc/?username=GabrielxKuek&style=flat-square)
 
 <h2>Boring Stuff</h2>
-- 👋 Hi, I’m @GabrielxKuek
-- 👀 I’m interested in becoming more proficient in coding, to become a software engineer
-- 🌱 I’m currently learning Javascript, Kaboom.js and backend development using express.js and node.js
-- 🐲 I currently have basic understanding of Python, C#, SwiftUI
-- 💞️ I’m looking to collaborate on nothing for now
-- 📫 How to reach me (please dont, for now. Don't know much about GitHub yet)
+- 👋 Hi, I’m @GabrielxKuek<br>
+- 👀 I’m interested in becoming more proficient in coding, to become a software engineer<br>
+- 🌱 I’m currently learning Javascript, Kaboom.js and backend development using express.js and node.js<br>
+- 🐲 I currently have basic understanding of Python, C#, SwiftUI<br>
+- 💞️ I’m looking to collaborate on nothing for now<br>
+- 📫 How to reach me (please dont, for now. Don't know much about GitHub yet)<br>
 
 <h2>Skills</h2>
 <h4>Languages</h4>
