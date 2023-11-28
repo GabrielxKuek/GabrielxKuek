@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Javascript, Kaboom.js and backend development using express.js and node.js<br>
 - 🐲 I currently have basic understanding of Python, C#, SwiftUI<br>
 - 💞️ I’m looking to collaborate on nothing for now<br>
-- 📫 How to reach me (please dont, for now. Don't know much about GitHub yet)<br>
+- 📫 How to reach me <br> Discord @JonJon74Jon#5207
 
 <h2>Skills</h2>
 
