@@ -12,7 +12,7 @@
 
 | Languages | Libraries & Frameworks | Others | Future Plans |
 | --------- | ---------------------- | ------ | ------------ |
-| - HTML <br>CSS<br>- <a href="https://github.com/GabrielxKuek/Kaboom-Platformer">Javscript</a><br>- Basic Python<br>- Basic C#<br>- <a href="https://github.com/GabrielxKuek/Nest/tree/App-Branch">Basic SwiftUI</a><br> | - Node.js<br>- Express.js<br>- Kaboom.js (learning)<br>- Basic .net | - <a href="https://www.figma.com/file/GUn59YdXXIvoGhZgvh0iEt/Mindful-Innovators---MindfulHacks?type=design&node-id=0-1&mode=design&t=gxh5edMdL14yj8kS-0">Figma</a> <br>- Mysql<br>- Firebase (learning)<br>- Linux Kernel (need revision)<br>- Wordpress (need revision)<br>- AWS (need revision)<br> | - React.js<br>- MongoDB<br>- Typescript<br>- Python<br>- C#<br> |
+| - HTML <br>- CSS<br>- <a href="https://github.com/GabrielxKuek/Kaboom-Platformer">Javscript</a><br>- Basic Python<br>- Basic C#<br>- <a href="https://github.com/GabrielxKuek/Nest/tree/App-Branch">Basic SwiftUI</a><br> | - Node.js<br>- Express.js<br>- Kaboom.js (learning)<br>- Basic .net <br><br>| - <a href="https://www.figma.com/file/GUn59YdXXIvoGhZgvh0iEt/Mindful-Innovators---MindfulHacks?type=design&node-id=0-1&mode=design&t=gxh5edMdL14yj8kS-0">Figma</a> <br>- Mysql<br>- Firebase (learning)<br>- Linux Kernel (need revision)<br>- Wordpress (need revision)<br>- AWS (need revision)<br> | - React.js<br>- MongoDB<br>- Typescript<br>- Python<br>- C#<br><br> |
 
 <h2>Profile Information</h2>
 
