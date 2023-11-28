@@ -10,24 +10,24 @@
 
 <h2>Skills</h2>
 <h4>Languages</h4>
-- HTML
-- CSS
-- Javscript
-- Basic Python
-- Basic C#
-- Basic SwiftUI
+- HTML <br>
+- CSS<br>
+- Javscript<br>
+- Basic Python<br>
+- Basic C#<br>
+- Basic SwiftUI<br>
 
 <h4>Libraries & Frameworks</h4>
-- Node.js
-- Express.js
-- Kaboom.js (learning)
+- Node.js<br>
+- Express.js<br>
+- Kaboom.js (learning)<br>
 
 <h4>Others</h4>
-- Mysql
-- Firebase (learning)
-- Linux Kernel (need revision)
-- Wordpress (need revision)
-- AWS (need revision)
+- Mysql<br>
+- Firebase (learning)<br>
+- Linux Kernel (need revision)<br>
+- Wordpress (need revision)<br>
+- AWS (need revision)<br>
 
 <h2>Profile Information</h2>
 [![trophy](https://github-profile-trophy.vercel.app/?username=GabrielxKuek)](https://github.com/ryo-ma/github-profile-trophy)
