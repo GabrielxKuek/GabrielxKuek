@@ -9,8 +9,8 @@
 - 📫 How to reach me (please dont, for now. Don't know much about GitHub yet)<br>
 
 <h2>Skills</h2>
-<div>
 <h4>Languages</h4>
+<div>
 - HTML <br>
 - CSS<br>
 - <a href="https://github.com/GabrielxKuek/Kaboom-Platformer">Javscript</a><br>
@@ -19,16 +19,16 @@
 - <a href="https://github.com/GabrielxKuek/Nest/tree/App-Branch">Basic SwiftUI</a><br>
 </div>
 
-<div>
 <h4>Libraries & Frameworks</h4>
+<div>
 - Node.js<br>
 - Express.js<br>
 - Kaboom.js (learning)<br>
 - Basic .net
 </div>
 
-<div>
 <h4>Others</h4>
+<div>
 - <a href="https://www.figma.com/file/GUn59YdXXIvoGhZgvh0iEt/Mindful-Innovators---MindfulHacks?type=design&node-id=0-1&mode=design&t=gxh5edMdL14yj8kS-0">Figma</a> <br>
 - Mysql<br>
 - Firebase (learning)<br>
@@ -37,8 +37,8 @@
 - AWS (need revision)<br>
 </div>
 
-<div>
 <h4>Future Plans</h4>
+<div>
 - React.js<br>
 - MongoDB<br>
 - Typescript<br>
