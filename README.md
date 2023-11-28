@@ -12,10 +12,10 @@
 <h4>Languages</h4>
 - HTML <br>
 - CSS<br>
-- Javscript<br>
+- <a href="https://github.com/GabrielxKuek/Kaboom-Platformer">Javscript</a><br>
 - Basic Python<br>
 - Basic C#<br>
-- Basic SwiftUI<br>
+- <a href="https://github.com/GabrielxKuek/Nest/tree/App-Branch">Basic SwiftUI</a><br>
 
 <h4>Libraries & Frameworks</h4>
 - Node.js<br>
@@ -24,7 +24,7 @@
 - Basic .net
 
 <h4>Others</h4>
-- Figma <br>
+- <a href="https://www.figma.com/file/GUn59YdXXIvoGhZgvh0iEt/Mindful-Innovators---MindfulHacks?type=design&node-id=0-1&mode=design&t=gxh5edMdL14yj8kS-0">Figma</a> <br>
 - Mysql<br>
 - Firebase (learning)<br>
 - Linux Kernel (need revision)<br>
