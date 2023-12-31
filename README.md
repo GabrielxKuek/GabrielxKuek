@@ -19,7 +19,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=GabrielxKuek)](https://github.com/ryo-ma/github-profile-trophy)
 
 ^ Give me time. I'm very confident these will raise soon
-I have more commits, but in private repositories :<
+<br>I have more commits, but in private repositories :<
 
 [![GabrielxKuek's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielxKuek)](https://github.com/anuraghazra/github-readme-stats)
 
