@@ -4,7 +4,7 @@
 - 👋 Hi, I’m @GabrielxKuek<br>
 - 👀 I’m interested in developing software<br>
 - 🌱 I’m currently learning Unity for game development, improving my web and app development skills<br>
-- 💞️ I’m looking to collaborate on nothing!!!<br>
+- 💞️ I’m looking to learn React Native for mobile app development<br>
 - 📫 How to reach me <br> Discord @JonJon74Jon#5207 // Instagram @chinchinhoshii
 
 <h2>Skills</h2>
